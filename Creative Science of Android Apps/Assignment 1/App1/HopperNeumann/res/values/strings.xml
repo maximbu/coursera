@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HopperNeumann</string>
+    <string name="name">Grace Hopper</string>
+    <string name="description">Grace Murray Hopper (December 9, 1906 – January 1, 1992) was an American computer scientist and United States Navy rear admiral. A pioneer in the field, she was one of the first programmers of the Harvard Mark I computer, and developed the first compiler for a computer programming language. She conceptualized the idea of machine-independent programming languages, which led to the development of COBOL, one of the first modern programming languages. She is credited with popularizing the term "debugging" for fixing computer glitches (inspired by an actual moth removed from the computer). Owing to the breadth of her accomplishments and her naval rank, she is sometimes referred to as "Amazing Grace".The U.S. Navy destroyer USS Hopper (DDG-70) is named for her, as was the Cray XE6 "Hopper" supercomputer at NERSC.
+(taken from wikipedia)</string>
+	<string name="name2">John von Neumann</string>
+    <string name="description2">John von Neumann (December 28, 1903 - February 8, 1957) was a Hungarian-American pure and applied mathematician and polymath. He made major contributions to a number of fields,including mathematics (foundations of mathematics, functional analysis, ergodic theory, geometry, topology, and numerical analysis), physics (quantum mechanics, hydrodynamics, and fluid dynamics), economics (game theory), computer science (Von Neumann architecture, linear programming, self-replicating machines, stochastic computing), and statistics.He was a pioneer of the application of operator theory to quantum mechanics, in the development of functional analysis, a principal member of the Manhattan Project and the Institute for Advanced Study in Princeton (as one of the few originally appointed), and a key figure in the development of game theory and the concepts of cellular automata, the universal constructor, and the digital computer.
+
+Von Neumann\'s mathematical analysis of the structure of self-replication preceded the discovery of the structure of DNA. In a short list of facts about his life he submitted to the National Academy of Sciences, he stated "The part of my work I consider most essential is that on quantum mechanics, which developed in Göttingen in 1926, and subsequently in Berlin in 1927–1929. Also, my work on various forms of operator theory, Berlin 1930 and Princeton 1935–1939; on the ergodic theorem, Princeton, 1931–1932. Along with Hungarian-born American theoretical physicist Edward Teller and Polish mathematician Stanislaw Ulam, von Neumann worked out key steps in the nuclear physics involved in thermonuclear reactions and the hydrogen bomb.
+
+Von Neumann wrote 150 published papers in his life, 60 in pure mathematics, 20 in physics, and 60 in applied mathematics. His last work, an unfinished manuscript written while in the hospital and later published in book form as The Computer and the Brain, gives an indication of the direction of his interests at the time of his death.
+(taken from Wikipedia)</string>
+
+</resources>

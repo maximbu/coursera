@@ -1,0 +1,746 @@
+Apr 16, 2014 10:44:46 PM SolutionFinder <init>
+INFO: null
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 1
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 2
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 3513.506877854048
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 3
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 3045.081484579357
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 4
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2924.8489275485613
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 5
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2835.8815989807827
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 6
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2630.9760923308904
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 7
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2533.4405360423057
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 8
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2723.885252924555
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 9
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2713.8861464478314
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 10
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2555.818537566555
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 11
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2629.3739090569015
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 12
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2580.3964042512134
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 13
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2485.586109513254
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 14
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2418.5018966907433
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 15
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2458.5820496080655
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 16
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2336.7163676139958
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 17
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2371.146073369907
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 18
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2458.1593286030784
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 19
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2445.786405448454
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 20
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2491.273030315025
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 21
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2187.1018122592513
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 22
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2196.9213581748572
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 23
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2079.1903015926214
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 24
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2137.5502359553975
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 25
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2298.708912736367
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 26
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2217.248548403785
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 27
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2269.1317549825108
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 28
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2101.871677554262
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 29
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2193.4444472651953
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 30
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2174.047037445007
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 31
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2164.7300178480064
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 32
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2224.435012834057
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 33
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2241.2091756899576
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 34
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2148.8227562552515
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 35
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2216.842793869874
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 36
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2256.489331481659
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 37
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2291.71229173241
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 38
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 1995.434057432871
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 39
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2124.1096949979333
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 40
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2204.1822811410398
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 41
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2116.0387110320517
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 42
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2060.3775680087256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Iteration is : 43
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:46 PM SolutionFinder printOutput
+INFO: Old value is : 2161.3035178974396
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 44
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2200.8011642802753
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 45
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2112.579599295969
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 46
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2190.288057268663
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 47
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2122.2932128659045
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 48
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2083.5164882650456
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 49
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2280.8156442587833
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 50
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2170.429948604308
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 51
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2135.882156918404
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 52
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 1992.0640071478063
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 53
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2055.2137887806534
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 54
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 1978.6415786734676
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 55
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2062.083085882498
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 56
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2207.8283135718007
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 57
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2070.7888045527443
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 58
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2058.520296002929
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 59
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2245.128348419423
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 60
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2135.9201302296215
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 61
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2108.722692203004
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 62
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2163.7146783711564
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 63
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2012.7815577461906
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 64
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2140.7978711998653
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 65
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2144.3299891838137
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 66
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2209.1472549006885
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 67
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2093.4626648504504
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Iteration is : 68
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:47 PM SolutionFinder printOutput
+INFO: Old value is : 2077.6976170813705
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 69
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2176.7531812811544
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 70
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2030.722459267166
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 71
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2107.4418613455086
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 72
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2071.584072949271
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 73
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2111.0310531534437
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 74
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2063.978212231648
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 75
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2020.3917622529534
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 76
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2057.1703572716415
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 77
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2132.8269376228054
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 78
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2089.393569388515
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 79
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2006.6383270805593
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 80
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2105.791392553907
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 81
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2100.963976565821
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 82
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2144.1999987493286
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 83
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2116.7962237054553
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 84
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2091.03264797628
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 85
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2124.0336855946316
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 86
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 1999.3390336902698
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 87
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2136.505261160297
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 88
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2228.527409063117
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 89
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2092.3049947235054
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Iteration is : 90
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:48 PM SolutionFinder printOutput
+INFO: Old value is : 2085.9588507526914
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 91
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2186.960169807075
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 92
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2054.9648320413444
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 93
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2172.165369867484
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 94
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2001.782362837872
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 95
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2124.7062557102126
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 96
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2049.6217950013206
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 97
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2137.445093156426
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 98
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2050.8774039915465
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 99
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2100.241284861345
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 100
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2108.096148437817
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 101
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2181.8870061401763
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 102
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2040.2995011437727
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 103
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2111.9056903184264
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 104
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2296.9367491733046
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 105
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2083.9873994137024
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 106
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2121.232863625537
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 107
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 1979.389929842468
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 108
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2160.137327441261
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 109
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2157.7320540891437
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 110
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2164.5396072572457
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Iteration is : 111
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:49 PM SolutionFinder printOutput
+INFO: Old value is : 2225.526184779008
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 112
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2085.4145233493023
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 113
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2136.884215982875
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 114
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2024.2500581085103
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 115
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2128.0154549039426
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 116
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2294.75790571798
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 117
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2207.6885800803566
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 118
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2171.689939186199
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 119
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2115.2165109533944
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 120
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2303.8763791536594
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 121
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2229.673223550603
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 122
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2151.2031194757587
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 123
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2164.7511488263776
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Iteration is : 124
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Best value is : 3354.1814362556256
+Apr 16, 2014 10:44:50 PM SolutionFinder printOutput
+INFO: Old value is : 2144.7899962943043

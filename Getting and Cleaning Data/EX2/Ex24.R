@@ -1,0 +1,5 @@
+require(RCurl)
+require(XML)
+webpage <- getURL("http://biostat.jhsph.edu/~jleek/contact.html")
+webpage <- readLines(tc <- textConnection(webpage)); close(tc)
+c(nchar(webpage[10]),nchar(webpage[20]),nchar(webpage[30]),nchar(webpage[100]))

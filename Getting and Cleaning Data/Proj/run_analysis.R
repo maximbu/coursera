@@ -55,7 +55,7 @@ activities[, 2] <- gsub("_(.)", "\\U\\1", activities[, 2],perl=TRUE)
 # Reassign activity name instead of identifier
 filtered_data$activity <- activities[filtered_data$activity, 2]
 # Store currcnt dataset
-write.table(file="full_tidy_dataset.txt")
+write.table(filtered_data,file="full_tidy_dataset.txt")
 
 # Use dplyr and tidyr to group by subject and activity , calculate mean , gather columns and store the final result
 tbl_df(filtered_data) %>%

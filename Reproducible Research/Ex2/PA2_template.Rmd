@@ -1,0 +1,123 @@
+---
+title: "Reproducible Research - Peer Assessment 2"
+output:
+  html_document:
+    fig_caption: yes
+  pdf_document: default
+date: "Monday, March 08, 2015"
+---
+# What events do most marm according to U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database ?
+
+## Synopsis 
+Since storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern. This document tries to analyze and answer specific questions regarding which events are most harmful with respect to population health and which have the greatest economic consequences.
+
+## Data 
+The data is taken from NOAA Storm Database , which can be downloaded at this link : "http://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2"
+
+## Data Processing
+The analysis was done as follows :
+
+###Load the data :
+
+```{r , cache=TRUE}
+if (!(require("R.utils", character.only=T, quietly=T))) {
+    install.packages("R.utils")
+    library("R.utils", character.only=T)
+}
+
+if(!file.exists("./repdata_data_StormData.csv")){
+                download.file("http://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2","repdata_data_StormData.csv.bz2")
+                bunzip2("repdata_data_StormData.csv.bz2")
+                }
+data <- read.csv("repdata_data_StormData.csv")
+print("Loaded")
+names(data)
+```
+
+Now let's select the relevant columns :
+```{r}
+p_data <- data[, c("EVTYPE", "FATALITIES", "INJURIES")]
+e_data <- data[, c("EVTYPE", "PROPDMG", "PROPDMGEXP", "CROPDMG", "CROPDMGEXP")]
+```
+
+Modify the e_data levels
+```{r, cache=TRUE}
+levels(e_data$PROPDMGEXP)
+levels(e_data$CROPDMGEXP)
+levels(e_data$PROPDMGEXP)[levels(e_data$PROPDMGEXP)=="-" | levels(e_data$PROPDMGEXP)=="+" | levels(e_data$PROPDMGEXP)=="?" | levels(e_data$PROPDMGEXP)==""] <- 0
+
+levels(e_data$CROPDMGEXP)[levels(e_data$CROPDMGEXP)=="-" | levels(e_data$CROPDMGEXP)=="+" | levels(e_data$CROPDMGEXP)=="?" | levels(e_data$CROPDMGEXP)==""] <- 0
+
+levels(e_data$PROPDMGEXP)[levels(e_data$PROPDMGEXP)=="B" | levels(e_data$PROPDMGEXP)=="b"] <- 9
+levels(e_data$PROPDMGEXP)[levels(e_data$PROPDMGEXP)=="H" | levels(e_data$PROPDMGEXP)=="h"] <- 2
+levels(e_data$PROPDMGEXP)[levels(e_data$PROPDMGEXP)=="K" | levels(e_data$PROPDMGEXP)=="k"] <- 3
+levels(e_data$PROPDMGEXP)[levels(e_data$PROPDMGEXP)=="M" | levels(e_data$PROPDMGEXP)=="m"] <- 6
+
+levels(e_data$CROPDMGEXP)[levels(e_data$CROPDMGEXP)=="B" | levels(e_data$CROPDMGEXP)=="b"] <- 9
+levels(e_data$CROPDMGEXP)[levels(e_data$CROPDMGEXP)=="H" | levels(e_data$CROPDMGEXP)=="h"] <- 2
+levels(e_data$CROPDMGEXP)[levels(e_data$CROPDMGEXP)=="K" | levels(e_data$CROPDMGEXP)=="k"] <- 3
+levels(e_data$CROPDMGEXP)[levels(e_data$CROPDMGEXP)=="M" | levels(e_data$CROPDMGEXP)=="m"] <- 6
+
+levels(e_data$PROPDMGEXP)
+levels(e_data$CROPDMGEXP)
+```
+
+Calculating the total damage cost
+```{r, cache=TRUE}
+e_data$CROPDMG <- e_data$CROPDMG*10^ as.numeric(e_data$CROPDMGEXP)
+e_data$PROPDMG <- e_data$PROPDMG*10^ as.numeric(e_data$PROPDMGEXP)
+```
+
+And summerize
+```{r , cache=TRUE}
+fatal_data <- aggregate(FATALITIES ~ EVTYPE, p_data, sum)
+inj_data <- aggregate(INJURIES ~ EVTYPE, p_data, sum)
+fatal_data_ord <- fatal_data[order(fatal_data$FATALITIES, decreasing=T),]
+inj_data_ord <- inj_data[order(inj_data$INJURIES, decreasing=T),]
+
+crop_data <- aggregate(CROPDMG ~ EVTYPE, e_data, sum)
+prop_data <- aggregate(PROPDMG ~ EVTYPE, e_data, sum)
+crop_data_ord <- crop_data[order(crop_data$CROPDMG, decreasing=T),]
+prop_data_ord <- prop_data[order(prop_data$PROPDMG, decreasing=T),]
+```
+
+## Results 
+Load packages
+```{r}
+
+if (!(require("lattice", character.only=T, quietly=T))) {
+    install.packages("lattice")
+    library("lattice", character.only=T)
+}
+
+if (!(require("gridExtra", character.only=T, quietly=T))) {
+    install.packages("gridExtra")
+    library("gridExtra", character.only=T)
+}
+
+```
+
+### 1. Across the United States, which types of events are most harmful with respect to population health?
+```{r ,fig.width = 10,fig.height = 5}
+number_of_events <- 7
+head(fatal_data_ord,number_of_events)
+head(inj_data_ord,number_of_events)
+
+
+f_p<-barchart(FATALITIES ~ EVTYPE,fatal_data_ord[1:number_of_events,], horizontal = FALSE, main = "Population fatalities by events",scales = list(rot = 45))
+i_p<-barchart(INJURIES ~ EVTYPE,inj_data_ord[1:number_of_events,], horizontal = FALSE, main = "Population injuries by events",scales = list(rot = 45))
+grid.arrange(f_p, i_p, nrow=1, ncol=2)
+```
+
+### 2. Across the United States, which types of events have the greatest economic consequences?
+```{r ,fig.width = 10,fig.height = 5}
+number_of_events <- 7
+head(crop_data_ord,number_of_events)
+head(prop_data_ord,number_of_events)
+
+
+c_p<-barchart(CROPDMG ~ EVTYPE,crop_data_ord[1:number_of_events,], horizontal = FALSE, main = "Crop damages by events",scales = list(rot = 45))
+p_p<-barchart(PROPDMG ~ EVTYPE,prop_data_ord[1:number_of_events,], horizontal = FALSE, main = "Property damages by events",scales = list(rot = 45))
+grid.arrange(c_p, p_p, nrow=1, ncol=2)
+```
+
